@@ -55,7 +55,7 @@ Visualizacion del espacio de trabajo
 ├── README.md 
 ├── src # carpeta con la fuente de archivos necesarios para el trabajo
 │   ├── config.py
-│   ├── io.py
+│   ├── rw.py # read/write
 │   └── modules.py
 └── uv.lock
 ```
